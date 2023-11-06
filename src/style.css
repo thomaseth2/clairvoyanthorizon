@@ -75,7 +75,7 @@ body {
   transition: transform 0.3s ease;
   outline: none;
   position: relative;
-  z-index: 9999; /* now this button will be at top of all elements */
+  z-index: 99999; /* now this button will be at top of all elements */
 }
 
 .icon-button:hover {
